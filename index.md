@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## MVP - Manhattan Value Play
 
-You can use the [editor on GitHub](https://github.com/realdatanyc/mvp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Getting the most for your money in one of the world's most valuable real estate markets is my mission.  I work on a team of brokers and advisors who are collaborating on behalf or clients to get the best residential real estate deals.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Speed, accuracy, and timing in executing a high value transaction is in our shared focus. 
+
+[Manhattan Land Value - Bloomberg CityLab](https://www.bloomberg.com/news/articles/2018-04-24/manhattan-s-land-value-is-an-incredible-1-74-trillion)
+
 
 ### Markdown
 
